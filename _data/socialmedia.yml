@@ -1,0 +1,49 @@
+- name: Facebook
+  url: http://facebook.com/Aligned4life
+  class: icon-github
+  title: Join the discussion...
+
+- name: YouTube
+  url: http://www.youtube.com/Aligned4Life
+  class: icon-youtube
+  title: "Videos, Video Aligned4Life YouTube"
+
+- name: Twitter
+  url: http://twitter.com/Aligned4Life
+  class: icon-twitter
+  title: "Follow Aligned4Life on Twitter"
+
+- name: Instagram
+  url: http://instagram.com/Aligned4Life
+  class: icon-instagram
+  title: "Instagram"
+
+- name: Aligned4Life YouTube Google+
+  url: https://plus.google.com/u/0/+Aligned4Life
+  class: icon-googleplus
+  title: "YouTube Google+"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

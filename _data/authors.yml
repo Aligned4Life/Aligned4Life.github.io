@@ -1,0 +1,14 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+aligned4tech: # replace this with your info
+  name: "Aligned4.Tech"
+  siterole: "webmaster, developer, copywriter, designer"
+  uri: http://Aligned4.Tech
+  email:
+  twitter: "@aligned4.tech"
+# you can add more authors here
