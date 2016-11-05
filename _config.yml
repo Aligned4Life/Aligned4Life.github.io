@@ -14,7 +14,7 @@ description: '»Aligned4.Life« is the place for integral .'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+# improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -78,12 +78,7 @@ compress_html:
 
 
 #
-#       ____       ____            ____
-#      / __ \___  / __/___ ___  __/ / /_
-#     / / / / _ \/ /_/ __ `/ / / / / __/
-#    / /_/ /  __/ __/ /_/ / /_/ / / /_
-#   /_____/\___/_/  \__,_/\__,_/_/\__/
-#
+
 # Default Settings
 
 defaults:
