@@ -8,7 +8,8 @@ title: 'Aligned 4 Life'
 slogan: 'Align your life now!'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Aligned4.Life« integral coaching aligns all parts of you with your true purpose for effortless success, true fullfillment, spiritual guidance and concious awakened living.'
+description: '»Aligned4.Life« integral coaching aligns all parts of you with your true purpose for effortless success, true fullfillment, spiritual guidance and concious awakened living.' 
+
 
 # The credits show up in the includes/_footer.html '<p>Created by <a href="http://Aligned4.Tech">Aligned4.Tech</a> '
 
@@ -21,7 +22,8 @@ description: '»Aligned4.Life« integral coaching aligns all parts of you with y
 #
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
-#'https://phlow.github.io/feeling-responsive/images/'
+#
+# urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
@@ -77,7 +79,12 @@ compress_html:
 
 
 #
-
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
 # Default Settings
 
 defaults:
@@ -89,7 +96,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Aligned4.Tech     # Default author for pages
   -
     scope:
       path: ''
@@ -120,9 +127,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-#google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+# google_author:             'https://Aligned4.Tech'
+# google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # alexa_verify_id:         ''
 
 
@@ -134,15 +141,15 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+favicon-32x32:                          'icon32.png'
+touch-icon-192x192:                     'touch_icon192.png'
+apple-touch-icon-180x180-precomposed:   'icon180.png'
+apple-touch-icon-152x152-precomposed:   'icon152.png'
+apple-touch-icon-144x144-precomposed:   'icon144.png'
+apple-touch-icon-120x120-precomposed:   'icon120.png'
+apple-touch-icon-114x114-precomposed:   'icon114.png'
+apple-touch-icon-76x76-precomposed:     'icon76.png'
+apple-touch-icon-72x72-precomposed:     'icon72.png'
 apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
@@ -182,7 +189,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+# disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -206,7 +213,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+# google_analytics_tracking_id: UA-60112281-1
 
 
 
